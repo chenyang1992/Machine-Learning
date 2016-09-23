@@ -1,0 +1,1 @@
+A program based on On-Line Fingerprint Verification has been created to compute the orientation field of a fingerprint image by using Matlab. Also the Poincaré Index method is implemented for singularity detection.
