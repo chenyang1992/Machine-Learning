@@ -1,0 +1,1 @@
+A preprocessing of face recognition system using eigen-faces has been created by using Matlab. It includes computing the eigen-face of face, compute the eigen-coefficients, and genuine and imposter score distributions.
